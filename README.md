@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-https://andreigorski.github.io/FM_Huddle-page/screenshot.png
+https://github.com/andreigorski/FM_Huddle-page/blob/main/Screenshot.png
 
 ### Links
 
