@@ -29,13 +29,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](.images/screenshot.png)
-
+https://andreigorski.github.io/FM_Huddle-page/screenshot.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://andreigorski.github.io/FM_Huddle-page/
 
 ## My process
 
